@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html>
+  <title>
+    TABLE
+  </title>
+  <style type="text/css">
+    body {
+      color: red;
+      background-color: pink;
+    }
+  </style>
+  <table> 
+    LANGUAGES
+  </table>
+  <table>
+    <tr>
+      <td>English</td>
+      <td>Social</td>
+    </tr>
+    <tr>
+      <td>20 books</td>
+      <td>26 books</td>
+    </tr>
+  </table>
